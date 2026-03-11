@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+yfinance
+pandas
+scikit-learn
+statsmodels
+# tensorflow (Not yet available for Python 3.14)
+numpy
